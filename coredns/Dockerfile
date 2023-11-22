@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns:1.8.0
+FROM k8s.gcr.io/coredns:1.6.5
 MAINTAINER hk <924519282@qq.com>
